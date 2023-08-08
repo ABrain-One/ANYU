@@ -7,6 +7,6 @@ Aritfacts:
 - <a href="https://drive.google.com/file/d/1Uwhv50z1ke13O0X34WFsRTKaph8rqKqs/view?usp=sharing" target="_blank">virtually enriched (100 %) NYU Depth V2 testing set</a>: 2048 artificially modified RGB-D testing pairs of images; 
 - <a href="https://github.com/ABrain-One/ANYU/blob/main/README.md" target="_blank">the VPD model checkpoint</a>.
 
-The dataset contains RGB-D images from NYU depth v2 [2]. When using the ANYU dataset, this work should also be cited along with our work:
+The dataset contains RGB-D images from NYU depth v2 [2]. When using the ANYU dataset, this work should also be cited along with our paper:
 1. ???
 2. N. Silberman, D. Hoiem, P. Kohli, R. Fergus. Indoor segmentation and support inference from rgbd images. In ECCV, 2012.
