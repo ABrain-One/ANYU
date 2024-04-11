@@ -1,4 +1,3 @@
-<base target="_blank">
 ## <B>Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation:<br/> Do We Need Artificial Augmentation?</B> 
 ## D. Ignatov, A. Ignatov, R. Timofte. 
 ## In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 2024.
