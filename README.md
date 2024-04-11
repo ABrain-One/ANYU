@@ -3,7 +3,7 @@
 
 Aritfacts:
   
-- virtually augmented NYU Depth V2 training dataset with adding of <a href="https://drive.google.com/file/d/1nrsiowQW1L9IEYLWoiGfJAhD56nSA3Sx/view?usp=sharing" target="_blank">10% and 100%</a> of artificially modified images; 
+- virtually augmented NYU Depth V2 training dataset (<a href="https://drive.google.com/file/d/1nrsiowQW1L9IEYLWoiGfJAhD56nSA3Sx/view?usp=sharing" target="_blank">ANYU</a>) with adding of 10% and 100% artificially modified images; 
 - <a href="https://drive.google.com/file/d/1Uwhv50z1ke13O0X34WFsRTKaph8rqKqs/view?usp=sharing" target="_blank">virtually enriched (100 %) NYU Depth V2 testing set</a>: 2048 artificially modified RGB-D testing pairs of images; 
 - <a href="https://github.com/ABrain-One/ANYU/blob/main/README.md" target="_blank">the VPD model checkpoint</a>.
 
