@@ -5,7 +5,7 @@ D. Ignatov, A. Ignatov, R. Timofte.
 ## Artifacts of the article:
 - Virtually augmented NYU Depth V2 training dataset (<a href="https://drive.google.com/file/d/1nrsiowQW1L9IEYLWoiGfJAhD56nSA3Sx/view?usp=sharing" target="_blank">ANYU</a>) extended with 10% and 100% artificially modified images
 - Virtually enriched (100 %) NYU Depth V2 <a href="https://drive.google.com/file/d/14FXyJHCUAxIxtbwlY5R4GkfOZp3_CeYm/view?usp=sharing" target="_blank">test set</a>: 2048 artificially modified RGB-D testing pairs of images 
-- <a href="https://drive.google.com/file/d/1xl3_CwEmPWtbswuS5ZW8K-ad8Xi7GRMr/view?usp=sharing" target="_blank">Checkpoint</a> of 
+- <a href="https://drive.google.com/file/d/1xl3_CwEmPWtbswuS5ZW8K-ad8Xi7GRMr/view?usp=sharing" target="_blank">Checkpoint</a> of the
 <a href="https://github.com/wl-zhao/VPD" target="_blank">VPD</a> model: RMSE 0.2478
 ------------------------------------------------------------------------------------------------------------
 Since the ANYU dataset contains RGB-D images from NYU depth v2, along with our paper the original NYU article should be cited:<br/>
