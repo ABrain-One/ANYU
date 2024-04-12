@@ -8,5 +8,18 @@ D. Ignatov, A. Ignatov, R. Timofte.
 - <a href="https://drive.google.com/file/d/1xl3_CwEmPWtbswuS5ZW8K-ad8Xi7GRMr/view?usp=sharing" target="_blank">Checkpoint</a> of the
 <a href="https://github.com/wl-zhao/VPD" target="_blank">VPD</a> model: RMSE 0.2478
 ------------------------------------------------------------------------------------------------------------
-Since the ANYU dataset contains RGB-D images from NYU depth v2, along with our paper the original NYU article should be cited:<br/>
-N. Silberman, D. Hoiem, P. Kohli, R. Fergus. Indoor segmentation and support inference from rgbd images. In ECCV, 2012.
+Since the ANYU dataset contains RGB-D images from NYU depth v2, along with our paper [1] the original NYU article [2] should be cited:<br/>
+
+@inproceedings{Ignatov:CVPR24,
+  author    = {Dmitry Ignatov, Andrey Ignatov and Radu Timofte},
+  title     = {Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?},
+  booktitle = {CVPR},
+  year      = {2024}
+}
+
+@inproceedings{Silberman:ECCV12,
+  author    = {Nathan Silberman, Derek Hoiem, Pushmeet Kohli and Rob Fergus},
+  title     = {Indoor Segmentation and Support Inference from RGBD Images},
+  booktitle = {ECCV},
+  year      = {2012}
+}
