@@ -17,7 +17,7 @@ booktitle = {CVPR},
 year = {2024} }
 
 @inproceedings{Silberman:ECCV12,
-  author    = {Nathan Silberman, Derek Hoiem, Pushmeet Kohli and Rob Fergus},
+  author    = {Silberman, Nathan  and Hoiem, Derek and Kohli, Pushmeet and Fergus, Rob},
   title     = {Indoor Segmentation and Support Inference from RGBD Images},
   booktitle = {ECCV},
   year      = {2012}
