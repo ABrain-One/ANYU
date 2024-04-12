@@ -10,12 +10,11 @@ D. Ignatov, A. Ignatov, R. Timofte.
 ------------------------------------------------------------------------------------------------------------
 Since the ANYU dataset contains RGB-D images from NYU depth v2, along with our paper [1] the original NYU article [2] should be cited:<br/>
 
-@inproceedings{Ignatov:CVPR24,
-  author    = {Dmitry Ignatov, Andrey Ignatov and Radu Timofte},
-  title     = {Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?},
-  booktitle = {CVPR},
-  year      = {2024}
-}
+@inproceedings{Ignatov:CVPR24, 
+author = {Ignatov, Dmitry and Ignatov, Andrey and Timofte, Radu}, 
+title = {Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?}, 
+booktitle = {CVPR}, 
+year = {2024} }
 
 @inproceedings{Silberman:ECCV12,
   author    = {Nathan Silberman, Derek Hoiem, Pushmeet Kohli and Rob Fergus},
