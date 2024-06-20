@@ -14,8 +14,7 @@ Since the ANYU dataset contains RGB-D images from NYU depth v2, along with our p
 author = {Ignatov, Dmitry and Ignatov, Andrey and Timofte, Radu}, 
 title = {Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?}, 
 booktitle = {CVPR}, 
-year = {2024},
-pages = {6177-6186}}
+year = {2024}}
 
 @inproceedings{Silberman:ECCV12,
   author    = {Silberman, Nathan  and Hoiem, Derek and Kohli, Pushmeet and Fergus, Rob},
